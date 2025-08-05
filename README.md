@@ -18,3 +18,11 @@ Chloe – An AI chatbot built using Java, Spring Boot, ReactJS, and OpenAI API, 
 - Rate limiting to control abuse  
 - Health check endpoint for monitoring
 - Clean and responsive chat UI with avatars & typing indicator
+
+---
+
+## 📷 Screenshots
+
+![Chloe Chatbot UI](/Screenshots/indexpage.jpg)
+
+---
